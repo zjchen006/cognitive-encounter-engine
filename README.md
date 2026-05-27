@@ -46,3 +46,9 @@
 ---
 
 *Built with curiosity, not code. Yet.*
+
+&gt; **How to Contribute:** Open an Issue or start a Discussion. Feedback from any angle—philosophy, technology, product, cognitive science, design—is welcome.
+
+---
+
+*Built with curiosity, not code. Yet.*
